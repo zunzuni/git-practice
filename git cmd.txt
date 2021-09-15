@@ -1,0 +1,4 @@
+git --
+git remote add origin url주소
+사이트 연결
+git push origin master 마스터브랜치 연결
